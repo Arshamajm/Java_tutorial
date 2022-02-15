@@ -19,6 +19,8 @@ public class GitApplication {
         System.out.println("welvome to git programming");
         
         System.out.println("welvome to news");
+        
+        System.out.println("welvome to git programming two");
     }
     
 }
