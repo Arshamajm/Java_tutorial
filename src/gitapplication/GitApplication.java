@@ -17,6 +17,8 @@ public class GitApplication {
         // TODO code application logic here
         
         System.out.println("welvome to git programming");
+        
+        System.out.println("welvome to news");
     }
     
 }
